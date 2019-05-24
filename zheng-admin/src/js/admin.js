@@ -10,7 +10,7 @@ $(function() {
 		$(this).next().slideToggle(200);
 		$(this).parent().toggleClass('toggled');
 	});
-	// 个人资料
+	// 个人资料Test
 	$(document).on('click', '.s-profile a', function() {
 		$(this).next().slideToggle(200);
 		$(this).parent().toggleClass('toggled');
